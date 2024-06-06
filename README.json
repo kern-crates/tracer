@@ -1,0 +1,10 @@
+{
+    "name": "tracer",
+    "description": "This tool is a utility for obtaining kernel stack backtrace information.",
+    "authors": [{
+      "name": "chenlinfeng ",
+      "email": "chenlinfeng25@outlook.com"
+    }],
+    "keywords": ["stack backtrace", "riscv", "dwarf"],
+    "doc_url": "https://github.com/kern-crates/tracer/blob/main/README.md"
+  }
